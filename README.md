@@ -1,4 +1,5 @@
-**1.🏡 Airbnb Dynamic Pricing Recommendation Engine**
+
+# 1.🏡 Airbnb Dynamic Pricing Recommendation Engine
 A data-driven project to recommend optimal Airbnb listing prices based on location, seasonality, and listing quality. Built using Python, Tableau, and Excel.
 
 **📌 Objective**
