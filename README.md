@@ -43,6 +43,6 @@ Season (month/quarter)
 
 ✅ Tableau dashboard: airbnb_dashboard.twbx
 
-✅ Final report: Airbnb Dynamic Pricing Recommendation Report.pdf
+✅ Final report: Airbnb Dynamic Pricing Recommendation Report.pdf 
 
 
